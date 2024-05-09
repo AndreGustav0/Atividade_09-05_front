@@ -1,7 +1,7 @@
 # Atividade_09-05_front
 Apenas para entrega solicitada.
 
-Problema proposto foi Apesentar a maior data informada, Calcular a diferença de ambas e Apresentar o horário atual em que foi calculado.
+Problema proposto foi Receber duas datas, Apesentar a maior data informada, Calcular a diferença de ambas e Apresentar o horário atual em que foi executado.
 
 Funções para Apresentar a Maior data
   Apenas realizei uma validação de qual seria maior e retornei no formato que queria.
